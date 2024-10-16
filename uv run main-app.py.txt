@@ -1,0 +1,3 @@
+@echo off
+start "" "uv run main-app.py" 
+exit
